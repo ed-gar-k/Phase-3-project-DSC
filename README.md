@@ -32,6 +32,9 @@ By understanding the factors influencing vaccination patterns, stakeholders can 
 
 Moving forward, continued collaboration between stakeholders and researchers is essential for translating these insights into tangible public health interventions and addressing the challenges posed by infectious diseases
 
+Useful Links
+https://www.drivendata.org/
+presentation link(https://www.canva.com/design/DAF-xnDqaZI/0e1Lz-_QHKUqN0v-_OJ9kg/edit?utm_content=DAF-xnDqaZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Further research is needed to explore additional features and refine the predictive models for better accuracy and generalizability.
 
 Continuous monitoring and evaluation of vaccination campaigns and public health interventions are crucial for assessing the impact of the predictive models and guiding future strategies.

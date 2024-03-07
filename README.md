@@ -18,12 +18,15 @@ This concludes that alot of individuals are not vaccinated against h1n1 flu
 This shows that more females are vaccinates compared to men
 
 ### Machine Learning models applied
-XGB Boost - This model performed exceptionally well compared to the rest with an accuracy of 86%
-Gradient Boosted and AdaBoost: 
-KNN.
-Decision Tree: 
+1.XGB Boost - This model performed exceptionally well compared to the rest with an accuracy of 86%
 
-Conclusions
+2.Gradient Boosted and AdaBoost:
+
+3.KNN.
+
+4.Decision Tree: 
+
+### Conclusions
 it is evident that a significant portion of the population remains unvaccinated, indicating potential gaps in vaccination campaigns or barriers to accessing vaccines. The higher vaccination rate among females suggests that they may be more receptive to vaccination messages or have better access to healthcare services. 
 Factors such as language barriers, cultural beliefs, and mistrust of healthcare systems may contribute to lower vaccination rates among certain racial or ethnic groups. addressing vaccination disparities requires a multifaceted approach that addresses social, cultural, and knowledge-related barriers to vaccine access and acceptance. By targeting specific demographic groups, tailoring communication strategies, and promoting health literacy, public health authorities can improve vaccine coverage
 
@@ -32,11 +35,12 @@ By understanding the factors influencing vaccination patterns, stakeholders can 
 
 Moving forward, continued collaboration between stakeholders and researchers is essential for translating these insights into tangible public health interventions and addressing the challenges posed by infectious diseases
 
-Useful Links
-https://www.drivendata.org/
-presentation link(https://www.canva.com/design/DAF-xnDqaZI/0e1Lz-_QHKUqN0v-_OJ9kg/edit?utm_content=DAF-xnDqaZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Further research is needed to explore additional features and refine the predictive models for better accuracy and generalizability.
 
 Continuous monitoring and evaluation of vaccination campaigns and public health interventions are crucial for assessing the impact of the predictive models and guiding future strategies.
 
 Collaboration and knowledge sharing among public health authorities, healthcare providers, and researchers are essential for leveraging the insights gained from predictive modeling to improve vaccination uptake and mitigate the spread of infectious diseases.
+
+Useful Links
+https://www.drivendata.org/
+presentation link(https://www.canva.com/design/DAF-xnDqaZI/0e1Lz-_QHKUqN0v-_OJ9kg/edit?utm_content=DAF-xnDqaZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

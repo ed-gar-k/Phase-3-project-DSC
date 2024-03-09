@@ -43,4 +43,4 @@ Collaboration and knowledge sharing among public health authorities, healthcare 
 
 Useful Links
 https://www.drivendata.org/
-presentation link(https://www.canva.com/design/DAF-xnDqaZI/0e1Lz-_QHKUqN0v-_OJ9kg/edit?utm_content=DAF-xnDqaZI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+presentation link : https://www.canva.com/design/DAF-0oeybys/EIdv7lCXPOHqrmdKBBkniQ/edit
